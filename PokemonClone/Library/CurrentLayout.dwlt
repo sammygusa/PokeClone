@@ -15,7 +15,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 45
+=======
+    y: 44
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
     y: 44
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
@@ -47,9 +51,12 @@ MonoBehaviour:
     y: 0
     width: 1280
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 712
   m_MinSize: {x: 950, y: 521}
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     height: 711
   m_MinSize: {x: 950, y: 300}
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
@@ -116,17 +123,23 @@ MonoBehaviour:
     y: 30
     width: 1280
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 662
   m_MinSize: {x: 711, y: 471}
   m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
   controlID: 45
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     height: 661
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 25
+<<<<<<< HEAD
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
+=======
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 --- !u!114 &6
 MonoBehaviour:
@@ -152,7 +165,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 46
+=======
+  controlID: 26
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
   controlID: 26
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
@@ -199,10 +216,13 @@ MonoBehaviour:
     y: 340
     width: 590
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 322
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     height: 321
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -232,17 +252,23 @@ MonoBehaviour:
     y: 0
     width: 316
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 662
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
   controlID: 68
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     height: 661
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
   controlID: 89
+<<<<<<< HEAD
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
+=======
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 --- !u!114 &10
 MonoBehaviour:
@@ -312,10 +338,13 @@ MonoBehaviour:
     y: 0
     width: 374
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 662
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     height: 661
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -390,9 +419,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.029327989, y: -1.9065552, z: -0.04630226}
     speed: 2
     m_Value: {x: -0.029327989, y: -1.9065552, z: -0.04630226}
+=======
+    m_Target: {x: 0.043680705, y: 0.5970685, z: 0.0008630124}
+    speed: 2
+    m_Value: {x: 0.043680705, y: 0.5970685, z: 0.0008630124}
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
     m_Target: {x: 0.043680705, y: 0.5970685, z: 0.0008630124}
     speed: 2
@@ -425,9 +460,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 18.174511
     speed: 2
     m_Value: 18.174511
+=======
+    m_Target: 12.433653
+    speed: 2
+    m_Value: 12.433653
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
     m_Target: 12.433653
     speed: 2
@@ -468,8 +509,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 19
 =======
+=======
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     y: 434
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     width: 588
@@ -561,6 +605,9 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: a6fbffff00000000
+<<<<<<< HEAD
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
+=======
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -628,7 +675,11 @@ MonoBehaviour:
   m_LastFolders: []
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: /Users/sammygusa/Documents/Learning_Unity/PokeClone/PokemonClone
+=======
+  m_LastProjectPath: /Users/tjhurd/Documents/GitHub/PokeClone/PokemonClone
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
   m_LastProjectPath: /Users/tjhurd/Documents/GitHub/PokeClone/PokemonClone
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
@@ -638,7 +689,11 @@ MonoBehaviour:
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 2028000028280000362800002e3b0000423b0000
+=======
+    m_ExpandedIDs: 062700000e2700001a270000143a0000
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
     m_ExpandedIDs: 062700000e2700001a270000143a0000
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
@@ -670,7 +725,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 20280000362800009a2d00002e3b0000363b0000423b0000
+=======
+    m_ExpandedIDs: 062700000e2700001a270000143a0000
+>>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
 =======
     m_ExpandedIDs: 062700000e2700001a270000143a0000
 >>>>>>> 344209692eb834e509fb32a53dbb69bc40fafcb7
